@@ -4,4 +4,9 @@ Saludos le voy agregar un nuevo cambio
 //////////////////////////////
 Nueva línea Daniel
 ************
+<<<<<<< HEAD
 nueva linea de alejandro
+=======
+nueva linea memo lopez 
+
+>>>>>>> a41f52be517a6e9717b8429e17bbae4b49a4c466
